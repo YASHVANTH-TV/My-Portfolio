@@ -1,14 +1,33 @@
-# Personal Portfolio
-This is my personal portfolio project ! This repository contains the source code for my portfolio website, built using plain HTML and CSS. This website showcases my work, skills, and projects in a clean and responsive design.
+<h1 align="center">Personal Portfolio</h1>
 
-## Features
-- **HTML and CSS**: Utilizes HTML and CSS without any frameworks or libraries.
-- **Responsive Design**: The portfolio adapts to various screen sizes, including mobile and desktop devices.
-- **Showcase Projects**: Display of personal and professional projects with descriptions.
-- **Contact Information**: Easy access to contact details and social media links.
+<p align="center">
+  <a href="#technologies">Technologies</a> |
+  <a href="#getting-started">Getting Started</a>
+</p>
 
-## Screenshots
-Here are some screenshots of the portfolio:
+<p align="center">
+  A personal portfolio project built using HTML, CSS, and JavaScript to showcase my skills, projects, and creativity.<br>
+  This project includes sections such as About Me, Skills, Projects, and Contact Information.
+</p>
 
-## Note
-The Project is currently under development.
+<p align="center">
+  <a href="https://yashvanth-tv.github.io/My-Portfolio/">Visit this Project</a>
+</p>
+
+## 💻 Technologies
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+Follow these steps to run the project locally on your machine.
+
+### Pre-Requisites
+Ensure you have the following installed:
+- Code Editor: [Visual Studio Code](https://code.visualstudio.com/)
+
+### Cloning
+Clone the project using the following command:
+
+```bash
+git clone https://github.com/YASHVANTH-TV/My-Portfolio.git
